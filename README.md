@@ -1,7 +1,7 @@
 ### Sobre Mim
 👋 Olá! Eu sou a **Thalita Ferraz**!  
 👩🏻‍💻 Sou **Desenvolvedora FullStack** 
-🧠 **Graduanda em Tecnologia da Análise e desenvolvimento de sistemas**
+🧠 **Graduanda em Análise e desenvolvimento de sistemas**
 🛠️ 
 🧡 **Apaixonada por tecnologia** e em **constante aprendizado** 🌱.
 
