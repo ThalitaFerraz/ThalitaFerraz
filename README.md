@@ -1,18 +1,18 @@
 ### Sobre Mim
-👋 Olá! Eu sou a **Taiany Brazil**!  
-👩🏻‍💻 Sou **Desenvolvedora FullStack** na **Avanade**.  
-🧠 **Graduada em Tecnologia da Informação** e com **3x Azure Certifications**.  
-🛠️ Minha **stack principal** é **.NET C#** com **Angular**.  
+👋 Olá! Eu sou a **Thalita Ferraz**!  
+👩🏻‍💻 Sou **Desenvolvedora FullStack** 
+🧠 **Graduanda em Tecnologia da Análise e desenvolvimento de sistemas**
+🛠️ 
 🧡 **Apaixonada por tecnologia** e em **constante aprendizado** 🌱.
 
 ---
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A90E2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taianybrazil/)
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-34D399?style=for-the-badge&logo=beecrowd&logoColor=white)](https://www.beecrowd.com.br/judge/pt/profile/595932)
-[![Credly](https://img.shields.io/badge/Credly-F5A623?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/taiany-alves-brazil-venancio)  
-[![Dio](https://img.shields.io/badge/DIO-9B4D96?style=for-the-badge&logo=dio&logoColor=white)](https://www.dio.me/users/braziltaiany)
-[![Alura](https://img.shields.io/badge/Alura-9B4D96?style=for-the-badge&logo=alura&logoColor=white)](https://cursos.alura.com.br/user/braziltaiany)
+[![LinkedIn](https://www.linkedin.com/in/thalita-ferraz-1a54263a0/)
+[![Beecrowd]
+[![Credly](
+[![Dio
+[![Alura](
 
 
 
